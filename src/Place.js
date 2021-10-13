@@ -31,7 +31,17 @@ export default function Place(prop) {
         <Search />
       </div>
       <br />
-      <small> Coded by Violet Red </small>
+      <small>
+        {" "}
+        Coded by Violet Red, code hosted at{" "}
+        <a
+          href="https://github.com/VioletSquish/weather-react-project"
+          target="_blank"
+          rel="noreferrer"
+        >
+          Github
+        </a>
+      </small>
     </div>
   );
 }
