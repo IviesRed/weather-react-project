@@ -1,0 +1,27 @@
+.Place {
+  font-family: sans-serif;
+}
+div.App {
+  margin: 20px auto;
+  border-color: blue;
+  border: 1px;
+  border-style: solid;
+  max-width: 70%;
+  border-radius: 8px;
+  background-color: #aec6cf;
+}
+h1,
+h2,
+small {
+  display: block;
+  text-align: center;
+  margin: 0 auto;
+}
+form {
+  border-radius: 1px;
+  max-width: 80%;
+  margin: 0 auto;
+}
+.conditions {
+  text-align: center;
+}
